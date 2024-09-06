@@ -29,16 +29,3 @@ The model consists of:
 ### Data
 
 The dataset used for this project is the daily minimum temperature dataset. The preprocessing steps include normalization, windowing, and splitting the data into training and validation sets.
-
-## Installation
-
-To run the notebooks and execute the code, you will need to have the following packages installed:
-- TensorFlow
-- NumPy
-- Matplotlib
-- CSV
-
-You can install the required packages using pip:
-
-```bash
-pip install tensorflow numpy matplotlib
